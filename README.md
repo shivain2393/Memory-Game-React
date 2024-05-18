@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine
 ```
-git clone https://git
+git clone https://github.com/shivain2393/Memory-Game-React.git
 ```
 2. Navigate to the project directory in your terminal
 ```
@@ -31,7 +31,7 @@ npm install
 4. Start the development server
 
 ```
-npm start
+npm run dev
 ```
 
 ## Technologies Used
